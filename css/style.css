@@ -1,0 +1,21 @@
+.clear {clear: both; }
+.yellow2
+{background:#ffcc33;}
+header{background:#870dcc;}
+.greetings{color:#ffb52a;}
+.light_note {  background-color: #f7f7f7;  padding: 1px 15px;  color: #7a3bb2;font-size:2rm;}
+.light_note h3{  font-size: 32px;}
+header .row {   margin-bottom: 0px; }
+.social{ padding: 1px 15px;}
+.social img:hover{opacity:0.8;}
+.yellow2 .col{ padding:15px;color:#666;}
+.greetings p{    font-size: 35px; }
+.logo img{width:100%; margin-top: 15px;}
+.projects .col{}
+.projects .col img{width:100%;}
+.projects .head {   border-bottom: 2px solid #eee;  margin-bottom: 20px;}
+.projects .head span{   border-bottom: 2px solid #ffb52a;  margin-right: 10px;  display: inline-block;
+margin-bottom: -2px;  margin-left: 20px;}
+header{position:fixed;top:0;width:100%;z-index:-1;}
+.maincontent{  z-index: 1;  background-color: #fff;  margin-top: 414px;}
+footer.page-footer {  margin-top: 0px;  padding-top: 0px;}
