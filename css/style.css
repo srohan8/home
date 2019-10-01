@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans&display=swap');
+.roastedegg
+{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+}
+.roastedegg .logo
+{max-width: 105px;}
+.main-content{padding: 4rem;}
+.roastedegg h1,.roastedegg h2
+{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 2.0rem;
+line-height: 2.2rem;
+}
 .clear {clear: both; }
 .yellow2
 {background:#ffcc33;}
